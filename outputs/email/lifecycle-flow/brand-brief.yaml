@@ -1,0 +1,40 @@
+brand_brief:
+  task:
+    deliverable: "13 responsive Klaviyo lifecycle-flow emails"
+    channel: "Klaviyo email"
+    campaign_or_occasion: "Lead-to-purchase lifecycle"
+    business_goal: "brand education, first conversion, and objection reduction"
+  subject:
+    garment: "Custom Paw to Wear apparel; garment-specific claims only where named"
+  audience_context:
+    audience: "Style-conscious pet parents and gift buyers"
+    lifecycle_or_awareness_context: "Signup, Viewed Product, Added to Cart, Started Checkout"
+    lifestyle: "Everyday identity first; gifting and remembrance as secondary motivations"
+  brand_context:
+    positioning: "Pet-inspired lifestyle fashion brand"
+    brand_idea: "Wear What Matters."
+    architecture_lens: "Pet relationship and identity → wearable object → craft → specification"
+  message_direction:
+    central_idea: "A Paw to Wear piece turns a specific pet, photo, and relationship into wearable storytelling with customer visibility before embroidery."
+    emotional_register: ["warm", "observant", "restrained", "fashion-aware"]
+    relevant_customer_motivation: ["everyday closeness", "personal style", "gifting", "another pet", "remembrance"]
+  expression:
+    voice: ["clear", "specific", "understated", "emotionally intelligent"]
+    preferred_language: ["recognizably them", "made around them", "wearable piece", "your photo and your choices"]
+    avoid: ["fur baby", "generic gift-store language", "unsupported premium claims", "false urgency", "tagline stacking"]
+    cta_family: ["Create Yours", "Explore Custom Pieces", "return/continue checkout language"]
+  approved_product_truth:
+    facts:
+      - "A real team member reviews photo suitability."
+      - "Artwork is created from the supplied photo and selected customization."
+      - "A preview is presented before production; the customer can request revisions before approval."
+      - "Approval is the normal production gate, with a documented no-response exception."
+      - "Finished embroidery is photographed before shipment."
+      - "Hoodies and crewneck sweatshirts use 380 GSM heavyweight loopback terry, 56.1% cotton / 43.9% polyester."
+  constraints:
+    unsupported_claims_to_avoid: ["unverified review text", "unverified event paths", "unverified offer activation", "380 GSM as a catalog-wide claim"]
+    verification_needed: ["Viewed Product schema", "Added to Cart/cart schema", "permissioned customer stories and reviews", "PERSONAL10 discount code current status"]
+    task_local_facts: ["Email 13 uses verified PERSONAL10 code: 10% off entire order, no minimum, no stacking (confirmed in Shopify admin)"]
+  handoff:
+    downstream_skill: "paw-to-wear-email"
+    downstream_instruction: "Use this brief as the factual and expression boundary for all 13 templates."

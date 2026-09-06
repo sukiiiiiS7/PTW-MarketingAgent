@@ -1,0 +1,5 @@
+interface:
+  display_name: "Paw to Wear Email"
+  short_description: "Write Paw to Wear Klaviyo-ready email HTML"
+  brand_color: "#CEB134"
+  default_prompt: "Use $paw-to-wear-email to create this Paw to Wear email as brand-consistent, Klaviyo-ready HTML."

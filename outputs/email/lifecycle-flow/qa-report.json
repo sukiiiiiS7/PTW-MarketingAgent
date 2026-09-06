@@ -1,0 +1,252 @@
+{
+  "generatedAt": "2026-09-04T15:58:08.567Z",
+  "emailCount": 13,
+  "renderCount": 26,
+  "staticErrors": [],
+  "expectedWarnings": [
+    "06-browse-viewed-product-reminder.html: event URL/block still requires Klaviyo Preview & test mapping",
+    "07-browse-objection-killer.html: event URL/block still requires Klaviyo Preview & test mapping",
+    "07-browse-objection-killer.html: verified asset or customer proof still required",
+    "08-cart-reminder.html: event URL/block still requires Klaviyo Preview & test mapping",
+    "09-cart-customization-reassurance.html: event URL/block still requires Klaviyo Preview & test mapping",
+    "10-cart-final-nudge.html: event URL/block still requires Klaviyo Preview & test mapping",
+    "10-cart-final-nudge.html: verified asset or customer proof still required",
+    "12-checkout-risk-reversal.html: verified asset or customer proof still required"
+  ],
+  "viewportResults": [
+    {
+      "file": "01-welcome-brand-promise.html",
+      "viewport": "desktop",
+      "scrollWidth": 760,
+      "clientWidth": 760,
+      "bodyTextLength": 1022,
+      "buttonCount": 2,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "01-welcome-brand-promise.html",
+      "viewport": "mobile",
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "bodyTextLength": 1020,
+      "buttonCount": 2,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "02-welcome-how-it-works.html",
+      "viewport": "desktop",
+      "scrollWidth": 760,
+      "clientWidth": 760,
+      "bodyTextLength": 1193,
+      "buttonCount": 2,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "02-welcome-how-it-works.html",
+      "viewport": "mobile",
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "bodyTextLength": 1194,
+      "buttonCount": 2,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "03-welcome-customer-story.html",
+      "viewport": "desktop",
+      "scrollWidth": 760,
+      "clientWidth": 760,
+      "bodyTextLength": 1100,
+      "buttonCount": 1,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "03-welcome-customer-story.html",
+      "viewport": "mobile",
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "bodyTextLength": 1097,
+      "buttonCount": 1,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "04-welcome-craftsmanship-value.html",
+      "viewport": "desktop",
+      "scrollWidth": 760,
+      "clientWidth": 760,
+      "bodyTextLength": 1061,
+      "buttonCount": 2,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "04-welcome-craftsmanship-value.html",
+      "viewport": "mobile",
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "bodyTextLength": 1062,
+      "buttonCount": 2,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "05-welcome-buying-reason.html",
+      "viewport": "desktop",
+      "scrollWidth": 760,
+      "clientWidth": 760,
+      "bodyTextLength": 1050,
+      "buttonCount": 2,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "05-welcome-buying-reason.html",
+      "viewport": "mobile",
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "bodyTextLength": 1045,
+      "buttonCount": 2,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "06-browse-viewed-product-reminder.html",
+      "viewport": "desktop",
+      "scrollWidth": 760,
+      "clientWidth": 760,
+      "bodyTextLength": 822,
+      "buttonCount": 2,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "06-browse-viewed-product-reminder.html",
+      "viewport": "mobile",
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "bodyTextLength": 822,
+      "buttonCount": 2,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "07-browse-objection-killer.html",
+      "viewport": "desktop",
+      "scrollWidth": 760,
+      "clientWidth": 760,
+      "bodyTextLength": 1341,
+      "buttonCount": 1,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "07-browse-objection-killer.html",
+      "viewport": "mobile",
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "bodyTextLength": 1338,
+      "buttonCount": 1,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "08-cart-reminder.html",
+      "viewport": "desktop",
+      "scrollWidth": 760,
+      "clientWidth": 760,
+      "bodyTextLength": 359,
+      "buttonCount": 1,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "08-cart-reminder.html",
+      "viewport": "mobile",
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "bodyTextLength": 359,
+      "buttonCount": 1,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "09-cart-customization-reassurance.html",
+      "viewport": "desktop",
+      "scrollWidth": 760,
+      "clientWidth": 760,
+      "bodyTextLength": 898,
+      "buttonCount": 2,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "09-cart-customization-reassurance.html",
+      "viewport": "mobile",
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "bodyTextLength": 899,
+      "buttonCount": 2,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "10-cart-final-nudge.html",
+      "viewport": "desktop",
+      "scrollWidth": 760,
+      "clientWidth": 760,
+      "bodyTextLength": 727,
+      "buttonCount": 1,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "10-cart-final-nudge.html",
+      "viewport": "mobile",
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "bodyTextLength": 727,
+      "buttonCount": 1,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "11-checkout-resume.html",
+      "viewport": "desktop",
+      "scrollWidth": 760,
+      "clientWidth": 760,
+      "bodyTextLength": 387,
+      "buttonCount": 2,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "11-checkout-resume.html",
+      "viewport": "mobile",
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "bodyTextLength": 385,
+      "buttonCount": 2,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "12-checkout-risk-reversal.html",
+      "viewport": "desktop",
+      "scrollWidth": 760,
+      "clientWidth": 760,
+      "bodyTextLength": 973,
+      "buttonCount": 2,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "12-checkout-risk-reversal.html",
+      "viewport": "mobile",
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "bodyTextLength": 971,
+      "buttonCount": 2,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "13-checkout-decision.html",
+      "viewport": "desktop",
+      "scrollWidth": 760,
+      "clientWidth": 760,
+      "bodyTextLength": 848,
+      "buttonCount": 2,
+      "brokenImageCount": 0
+    },
+    {
+      "file": "13-checkout-decision.html",
+      "viewport": "mobile",
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "bodyTextLength": 846,
+      "buttonCount": 2,
+      "brokenImageCount": 0
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Paw to Wear Brand"
+  short_description: "Build a brand-safe Paw to Wear marketing brief"
+  brand_color: "#CEB134"
+  default_prompt: "Use $paw-to-wear-brand to build a brand brief for this Paw to Wear marketing task."
